@@ -115,7 +115,7 @@ const index = cities.indexOf("Liverpool");
 if (index !== -1) {
   cities.splice(index, 1);
 }
-console.log(cities); // [ "Manchester", "Edinburgh", "Carlisle" ]
+console.log(cities);
 
 /*
 in splice() the first argument tells
