@@ -135,3 +135,34 @@ const birds2 = ["Parrot", "Falcon", "Owl"];
 for (const bird of birds2) {
   console.log(bird);
 }
+
+/*
+To make smae change to all items in an array,
+we us ethe map() function
+ */
+
+function double(number) {
+  return number * 2;
+}
+const numbers = [5, 2, 7, 6];
+const doubled = numbers.map(double);
+console.log(doubled); // [ 10, 4, 14, 12 ]
+
+/*
+we give a function to the map()
+and the map() calls the function
+and pass them to the array
+ */
+
+/*
+when we want to create a new array
+based on specific tests give in the
+first array we use the filter()
+ */
+
+function isLong(city) {
+  return city.length > 8;
+}
+const citie = ["London", "Liverpool", "Totnes", "Edinburgh"];
+const longer = cities.filter(isLong);
+console.log(longer); // [ "Liverpool", "Edinburgh" ]
