@@ -166,3 +166,7 @@ function isLong(city) {
 const citie = ["London", "Liverpool", "Totnes", "Edinburgh"];
 const longer = cities.filter(isLong);
 console.log(longer); // [ "Liverpool", "Edinburgh" ]
+
+
+//Converting between strings and array
+
