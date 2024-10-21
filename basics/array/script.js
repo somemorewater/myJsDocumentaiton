@@ -170,3 +170,43 @@ console.log(longer); // [ "Liverpool", "Edinburgh" ]
 
 //Converting between strings and array
 
+/*
+we can convert a string to an array,
+using split() method to make the data 
+more useful
+*/
+
+/*
+technically this is a string method
+and not an array metohd but it goes 
+well with arrays too
+*/
+
+const data = "Manchester,London,Liverpool,Birmingham,Leeds,Carlisle";
+
+//Now let's split is at each comma
+
+const towns = data.split(",");
+  towns;
+
+/*
+note: all other array methods can work
+on this array 
+*/
+
+/*
+to convert it back to a string
+we can either go reverse by using the join()
+method
+ */
+
+const commaSeparated = towns.join(",");
+  commaSeparated;
+
+/*
+or using the toString()  method
+*/
+
+const dogNames = ["Rocket", "Flash", "Bella", "Slugger"];
+dogNames.toString(); // Rocket,Flash,Bella,Slugger
+
