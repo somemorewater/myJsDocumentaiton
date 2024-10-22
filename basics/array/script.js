@@ -138,7 +138,7 @@ for (const bird of birds2) {
 
 /*
 To make smae change to all items in an array,
-we us ethe map() function
+we us the map() function
  */
 
 function double(number) {
@@ -209,4 +209,3 @@ or using the toString()  method
 
 const dogNames = ["Rocket", "Flash", "Bella", "Slugger"];
 dogNames.toString(); // Rocket,Flash,Bella,Slugger
-
