@@ -21,3 +21,11 @@ if (shoppingDone === true) {
 we use else if to add extra  
 posibilities
  */
+
+if (shoppingDone === true) {
+  childsAllowance = 10;
+} else if (childsAllowance >= childsAllowance) {
+  childsAllowance = 1;
+} else {
+  childsAllowance = 5;
+}
