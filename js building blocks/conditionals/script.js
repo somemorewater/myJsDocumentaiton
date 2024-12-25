@@ -29,3 +29,35 @@ if (shoppingDone === true) {
 } else {
   childsAllowance = 5;
 }
+
+
+//We can also use switch
+
+switch (expression) {
+  case choice1:
+    // run this code
+    break;
+
+  case choice2:
+    // run this code instead
+    break;
+
+  // include as many cases as you like
+
+  default:
+    // actually, just run this code
+    break;
+}
+
+
+//Ternary operator
+
+/*
+This is a short of an if...else 
+statement, that does basically 
+the same thing 
+*/
+
+condition ? run this code : run this code instead
+
+
