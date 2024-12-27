@@ -58,6 +58,6 @@ statement, that does basically
 the same thing 
 */
 
-condition ? run this code : run this code instead
+//condition ? run code : run  code instead
 
 
