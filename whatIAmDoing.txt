@@ -1,0 +1,3 @@
+I am now in the stage of understanding loops
+
+if/else statements are now getting simple
