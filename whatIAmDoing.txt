@@ -1,3 +1,6 @@
 I am now in the stage of understanding loops
 
 if/else statements are now getting simple
+
+But mainly for the pyramid generator i will need
+* arrray methods
