@@ -4,3 +4,5 @@ if/else statements are now getting simple
 
 But mainly for the pyramid generator i will need
 * arrray methods
+
+I have used a for loop anda while loop for the pyramid generator, today i will use a do while loop
