@@ -6,3 +6,5 @@ But mainly for the pyramid generator i will need
 * arrray methods
 
 I have used a for loop and while loop for the pyramid generator, today i will make the pyramid inverted
+
+Done with the pyramid generator
