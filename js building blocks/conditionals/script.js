@@ -1,10 +1,10 @@
 //Basic if...else syntax
 
-if (condition) {
+/*if (condition) {
     //code to run
 } else {
     //code to run instead
-}
+}*/
 
 //A real example
 
@@ -33,7 +33,7 @@ if (shoppingDone === true) {
 
 //We can also use switch
 
-switch (expression) {
+/*switch (expression) {
   case choice1:
     // run this code
     break;
@@ -47,8 +47,7 @@ switch (expression) {
   default:
     // actually, just run this code
     break;
-}
-
+}*/
 
 //Ternary operator
 
@@ -60,4 +59,6 @@ the same thing
 
 //condition ? run code : run  code instead
 
+const $num = 4;
 
+$num <= 12 ? console.log('Is less than 4') : console.log('Is greater than 4')
