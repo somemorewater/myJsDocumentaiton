@@ -101,3 +101,19 @@ function high(value, index) {
 }
 
 console.log(highTemp);
+
+// .findLastIndex()
+
+/*
+This find the index of the last
+element to satisfy a condition
+*/
+
+const $temp = [24, 32, 37, 54];
+let $highTemp = temp.findLastIndex(high);
+
+function high(value, index) {
+    return value > 40;
+}
+
+console.log($highTemp);
