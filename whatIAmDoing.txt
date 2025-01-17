@@ -8,3 +8,5 @@ But mainly for the pyramid generator i will need
 I have used a for loop and while loop for the pyramid generator, today i will make the pyramid inverted
 
 Done with the pyramid generator
+
+Still with array search on w3schools
