@@ -27,8 +27,8 @@ this returns the position of the last
 occurrence of the element
 */
 
-const arr1 = ['apple', 'mango', 'orange', 'apple', 'lemon'];
-let position2 = arr1.lastIndexOf('apple');
+const arr1 = ["apple", "mango", "orange", "apple", "lemon"];
+let position2 = arr1.lastIndexOf("apple");
 
 console.log(position2);
 
@@ -43,8 +43,8 @@ it has the same syntax as
 this checks if an element is present in an array
 */
 
-const fruits = ['banana', 'apple', 'orange', 'mango'];
-let check = fruits.includes('apple');
+const fruits = ["banana", "apple", "orange", "mango"];
+let check = fruits.includes("apple");
 
 console.log(check);
 
@@ -64,11 +64,10 @@ const numbers = [4, 6, 8, 9, 17, 23];
 let first = numbers.find(greater);
 
 function greater(value, index) {
-    return value > 18
+  return value > 18;
 }
 
 console.log(first);
-
 
 // .firstIndex()
 
@@ -77,11 +76,11 @@ This returns the index of the
 first element to pass the test funcion
 */
 
-const num = [3, 7, 12, 18 ,26];
+const num = [3, 7, 12, 18, 26];
 let inFirst = num.findIndex(great);
 
 function great(value, index) {
-    return value > 18;
+  return value > 18;
 }
 
 console.log(inFirst);
@@ -97,7 +96,7 @@ const temp = [24, 32, 37, 54];
 let highTemp = temp.findLast(high);
 
 function high(value, index) {
-    return value > 40;
+  return value > 40;
 }
 
 console.log(highTemp);
@@ -113,7 +112,7 @@ const $temp = [24, 32, 37, 54];
 let $highTemp = temp.findLastIndex(high);
 
 function high(value, index) {
-    return value > 40;
+  return value > 40;
 }
 
 console.log($highTemp);
