@@ -10,3 +10,5 @@ I have used a for loop and while loop for the pyramid generator, today i will ma
 Done with the pyramid generator
 
 Still with array search on w3schools
+
+Array search done, now to array sort --w3schools--
