@@ -68,4 +68,35 @@ console.log(
 
 //you can still do the reverse stuff after that
 
+//Sorting an array in random order
 
+/*
+you can use it to sort arrays in random order
+*/
+
+const morePoints = [40, 100, 1, 5, 25, 10];
+console.log(
+    morePoints.sort(function(){return 0.5 - Math.random()})
+)
+
+
+// The Fisher Yates method
+
+/*
+--You wouldn't believe it when I tell
+    you that that is not the best way to 
+    sort numeric arrays randomlly, cause
+    it is not accurate.
+The best is fisher yates shuffle
+*/
+
+const marks = [40, 100, 1, 5, 25, 10];
+
+for (let i = marks.length -1; i > 0; i--) {
+    let j = Math.floor(Math.random() * (i + 1));
+    let k = marks[i];
+    marks[i] = marks[j];
+    marks[j] = k;
+}
+ 
+console.log(marks);
