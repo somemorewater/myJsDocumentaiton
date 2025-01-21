@@ -14,3 +14,5 @@ const object = contacts.addressBook,
 for (let i = 0; i < contactsCount; i++) {
   console.log(object[i]);
 }
+
+console.log(object)
