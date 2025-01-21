@@ -1,4 +1,4 @@
 
 
 1. Array Numeric Sort (compare function)
-2. Fisher yest shuffle
+2. Fisher yates shuffle
