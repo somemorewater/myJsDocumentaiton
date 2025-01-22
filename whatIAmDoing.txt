@@ -12,3 +12,6 @@ Done with the pyramid generator
 Still with array search on w3schools
 
 Array search done, now to array sort --w3schools--
+
+
+JSON objects stuff
