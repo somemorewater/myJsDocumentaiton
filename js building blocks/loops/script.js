@@ -42,3 +42,32 @@ console.log(filtered);
 for (let i = 0; i < cats.length; i++) {
   console.log(cats[i]);  
 }
+
+
+//real example of a for loop
+//calculating squares of numbers from 1-10
+
+/*const results = document.querySelector("#results");
+
+function calculate() {
+  for (let i = 1; i < 10; i++) {
+    const newResult = `${i} x ${i} = ${i * i}`;
+    results.textContent += `${newResult}\n`;
+  }
+  results.textContent += "\nFinished!\n\n";
+}
+
+const calculateBtn = document.querySelector("#calculate");
+const clearBtn = document.querySelector("#clear");
+
+calculateBtn.addEventListener("click", calculate);
+clearBtn.addEventListener("click", () => (results.textContent = ""));
+*/
+
+
+
+//using for loop to loop through a collection
+
+for (let i = 0; i < cats.length; i++) {
+  console.log(cats[i]);
+}
