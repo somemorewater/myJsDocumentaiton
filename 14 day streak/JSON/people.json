@@ -1,0 +1,21 @@
+[{
+    "name": "Raphinha",
+    "age": 26,
+    "club": "Barcelona",
+    "position": "Winger",
+    "nationality": "Brazil"
+},
+{
+    "name": "Pedri",
+    "age": 21,
+    "club": "Barcelona",
+    "position": "Midfielder",
+    "nationality": "Spain"
+},
+{
+    "name": "Lamine",
+    "age": 16,
+    "club": "Barcelona",
+    "position": "Forward",
+    "nationality": "Spain"
+}]

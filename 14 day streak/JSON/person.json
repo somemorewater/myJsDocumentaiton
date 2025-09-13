@@ -1,0 +1,9 @@
+{
+    "name": "Messi",
+    "age": 38,
+    "club": "Inter Miami",
+    "position": "Forward",
+    "nationality": "Argentina",
+    "nicknames": ["La Pulga", "GOAT", "D10S"],
+    "isHeTheGOAT": true
+}
