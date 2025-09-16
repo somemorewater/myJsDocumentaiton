@@ -30,20 +30,6 @@ addGlobalEventListener("submit", ".weatherForm", async e => {
     }
 })
 
-// weatherForm.addEventListener("submit", e => {
-//     e.preventDefault();
-
-//     const city = cityInput.value;
-
-//     if (city) {
-        
-//     } else {
-//         displayError("Please Enter City")
-//     }
-// })
-
-
-
 async function getWeatherData(city) {
     const apiUrl = `https://api.openweathermap.org/data/2.5/weather?q=${city}&appid=${apiKey}`;
     const response = await fetch(apiUrl);
