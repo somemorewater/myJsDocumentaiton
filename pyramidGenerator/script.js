@@ -15,15 +15,6 @@ for (let i = 1; i <= count; i++) {
     }
 }
 
-//Other methods 
-/*while (rows.length < count) {
-    rows.push(padRow(rows.length + 1, count));
-}
-
-for (let i = count; i > 1; i--) {
-    rows.push(padRow(i, count));
-}*/
-
 
 let result = "";
 
