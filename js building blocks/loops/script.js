@@ -1,4 +1,4 @@
-/* a code structure that allows you to do something very similar many times without repeating the same code for each iteration. */
+
 
 // The for...of loop
 
