@@ -2,7 +2,7 @@
 
 // The for...of loop
 
-//This is the basic tool forlooping through a collection
+//This is the basic tool for looping through a collection
 
 const cats = ["Loepard", "Serval", "Jaguar", "Tiger", "Caracal", "Lion"];
 
