@@ -44,8 +44,6 @@ for (let i = 0; i < cats.length; i++) {
 }
 
 
-//real example of a for loop
-//calculating squares of numbers from 1-10
 
 /*const results = document.querySelector("#results");
 
