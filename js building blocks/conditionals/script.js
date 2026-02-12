@@ -6,7 +6,6 @@
     //code to run instead
 }*/
 
-//A real example
 
 let shoppingDone = false;
 let childsAllowance;
