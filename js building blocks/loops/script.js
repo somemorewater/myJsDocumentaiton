@@ -64,7 +64,6 @@ clearBtn.addEventListener("click", () => (results.textContent = ""));
 
 
 
-//using for loop to loop through a collection
 
 for (let i = 0; i < cats.length; i++) {
   console.log(cats[i]);
