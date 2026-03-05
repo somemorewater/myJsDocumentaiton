@@ -10,7 +10,6 @@ This repo is a personal library where I organize everything I learn while studyi
 - Code snippets for quick reference
 - Notes on JS concepts, patterns, and best practices
 - Solutions to common coding challenges
-- Links to helpful resources, tutorials, and videos
 
 Feel free to explore, learn, and contribute!
 
