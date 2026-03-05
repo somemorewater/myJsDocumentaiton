@@ -19,8 +19,6 @@ Feel free to explore, learn, and contribute!
 
 - **Structured Notes**: Notes on each JavaScript topic, from basics to advanced concepts.
 - **Code Snippets**: Reusable code for common JS tasks like DOM manipulation, async handling, and more.
-- **Challenges**: Solutions to JS coding challenges and exercises.
-- **Resources**: Curated list of tutorials, blog posts, and documentation that helped me.
 
 ---
 
