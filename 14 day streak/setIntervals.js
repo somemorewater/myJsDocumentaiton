@@ -1,4 +1,4 @@
-// variable to store our intervalID
+
 let intervalId;
 
 function changeColor() {
