@@ -1,6 +1,6 @@
 # Random JavaScript Learning Documentation 
 
-Welcome to **My JS Docs** repository! This project is a collection of my notes, code snippets, and resources as I explore the amazing world of JavaScript. Whether you're a beginner or looking to brush up on your JS skills, you might find something useful here.
+Welcome to **My Docs for JS** repository! This project is a collection of my notes, code snippets, and resources as I explore the amazing world of JavaScript. Whether you're a beginner or looking to brush up on your JS skills, you might find something useful here.
 
 ---
 
